@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about0_abouts",
+  "info": {
+    "displayName": "about"
+  },
+  "options": {},
+  "attributes": {
+    "info": {
+      "type": "text"
+    }
+  }
+}

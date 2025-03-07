@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_uses",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-uses",
+    "displayName": "About us"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "about": {
+      "type": "blocks"
+    }
+  }
+}
